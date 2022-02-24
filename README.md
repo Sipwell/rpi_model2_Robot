@@ -15,8 +15,8 @@ Worksheets : https://github.com/CamJam-EduKit/EduKit3/tree/master/CamJam%20Eduki
 Line detector schema niet accuraat met bordje in de kit
 Zelf uitgezocht hoe de jumpers verbonden moesten worden -> Gelukt
 
-Obstacle detectie geprogrammeerd volgens worksheets -> Gelukt
-Stroom via een externe powerbank -> Volledig kabelloos -> Gelukt
+Obstacle detectie geprogrammeerd volgens worksheets -> Gelukt:
+Stroom via een externe powerbank -> Volledig kabelloos -> Gelukt:
 
 UPGRADE met CAMERA
 Verder werkend op de vorige versie van de robot rust ik deze uit met een camera
