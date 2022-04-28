@@ -1,25 +1,24 @@
-CamJam Edukit #3 Robotics
+# CamJam Edukit #3 Robotics
 
-Info : camjam.me/edukit
-Worksheets : https://github.com/CamJam-EduKit/EduKit3/tree/master/CamJam%20Edukit%203%20-%20GPIO%20Zero
+## Beschrijving
+Starter robotics kit om een kleine zelfrijdende robot te bouwen die bestuurd wordt via de Raspberry Pi
 
-Versie 1 : Met Raspberry Pi 4 Model B 2GB 
-Verbinding via SSH & VNC
+## Bronnen
+- Magpi Magazine
+- The Pi Hut website (www.thepihut.com)
 
-Versie 2 : Met Raspberry Pi Zero 2
-Verbinding via SSH & VNC
+## Hardware
+- CamJam Edukit 3 (https://thepihut.com/collections/raspberry-pi-kits-and-bundles/products/camjam-edukit-3-robotics)
+- Raspberry Pi 4B
+- Raspberry Pi Zero 2
 
-Worksheets : https://github.com/CamJam-EduKit/EduKit3/tree/master/CamJam%20Edukit%203%20-%20GPIO%20Zero
+# Software
+- Worksheet 1 : https://github.com/CamJam-EduKit/EduKit3/tree/master/CamJam%20Edukit%203%20-%20GPIO%20Zero
+- Worksheet 2 : https://github.com/CamJam-EduKit/EduKit3/tree/master/CamJam%20Edukit%203%20-%20GPIO%20Zero
 
-1 issue :
-Line detector schema niet accuraat met bordje in de kit
-
-Zelf uitgezocht hoe de jumpers verbonden moesten worden -> Gelukt
-
-Obstacle detectie geprogrammeerd volgens worksheets -> Gelukt
-
-Stroom via een externe powerbank -> Volledig kabelloos -> Gelukt:
-
-UPGRADE met CAMERA
-
-Verder werkend op de vorige versie van de robot rust ik deze uit met een camera
+# Issues & Aanpassingen
+- Line detector schema niet accuraat met bordje in de kit -> Opgelost
+- Zelf moeten uitzoeken hoe de jumpers verbonden moesten worden -> Gelukt
+- Obstacle detectie geprogrammeerd volgens worksheets -> Gelukt
+- Externe powerbank gebruikt om volledig draadloos te zijn -> Gelukt
+- Externe camera upgrade toegepast -> Gelukt
